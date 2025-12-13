@@ -1,4 +1,4 @@
 # thedorekaczynski
 
 libera.chat: `thedorekaczynski`  
-gpg: [`10c1 f28d 0389 7237 40e3 983b eaa0 e270 2b56 29bb`](https://github.com/thedorekaczynski.gpg)
+gpg: [`8dff de48 5ada 0909 29be 4615 8b0e 67ad aef3 970d`](https://github.com/thedorekaczynski.gpg)
